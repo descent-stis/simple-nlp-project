@@ -1,8 +1,6 @@
 <h2 align="center">Simple NLP Project</h2>
 <h3 align="center">A Sentiment Analysis Project for Beginner</h3>
 
----
-
 ## Requirements
 
 There are some important libraries used in this project, such as:
@@ -16,8 +14,6 @@ tweepy
 wordcloud
 ```
 More complete requirements at [here](requirements.txt).
-
----
 
 ## File Structure
 
@@ -34,9 +30,6 @@ More complete requirements at [here](requirements.txt).
 ├── requirements.txt
 .
 ```
-
----
-
 
 ## File Description
 
