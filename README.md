@@ -57,4 +57,4 @@ To run the project locally, please do the following steps carefully.
 
 4. Then move to `hands_on.ipynb` file, and run the notebook.
 
-Meet Some Errors or Need a Help? Please contact @myarist
+Meet Some Errors or Need a Help? Please contact [@myqrist](https://github.com/myarist)
